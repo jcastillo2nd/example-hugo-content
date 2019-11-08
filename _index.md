@@ -1,3 +1,4 @@
+---
 date: "2019-11-08"
 title: An Example Hugo Index Page
 description: This is what a main page looks like.
